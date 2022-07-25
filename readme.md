@@ -1,2 +1,2 @@
 # Repositorio 06
-### Archivo modificado.
+### Archivo modificado X2.
